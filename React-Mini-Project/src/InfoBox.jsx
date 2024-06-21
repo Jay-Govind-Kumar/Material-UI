@@ -3,9 +3,9 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import "./InfoBox.css";
-// import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
-// import AcUnitIcon from '@mui/icons-material/AcUnit';
-// import WbSunnyIcon from '@mui/icons-material/WbSunny';
+import ThunderstormIcon from "@mui/icons-material/Thunderstorm";
+import AcUnitIcon from "@mui/icons-material/AcUnit";
+import WbSunnyIcon from "@mui/icons-material/WbSunny";
 
 export default function InfoBox({ info }) {
   let INI_URL =
@@ -37,14 +37,12 @@ export default function InfoBox({ info }) {
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              {info.city} 
-              {/* {
-              info.humidity > 80
+              {info.city}{" "}
+              {info.humidity > 80
                 ? <ThunderstormIcon />
                 : info.temp > 15
                 ? <WbSunnyIcon />
-                : <AcUnitIcon />
-            } */}
+                : <AcUnitIcon />}
             </Typography>
             <Typography
               variant="body2"
