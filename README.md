@@ -19,9 +19,8 @@
 > ```bash
 > npm run dev
 > ```
-> * Open [http://localhost:5173](http://localhost:5173 with your browser to see the result.
-
-You can start editing the page by modifying `src folder`. The `app.jsx` auto-updates as you edit the file.
+> * Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+> * You can start editing the page by modifying `src folder`. The `app.jsx` auto-updates as you edit the file.
 
 
 ## 📸 ScreenShots
@@ -35,8 +34,7 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Material UI Documentation](https://nextjs.org/docs) - learn about Material Design
 components and features.
-
-You can check out [the Material-UI GitHub repository](https://github.com/mui/material-ui) - your feedback and contributions are welcome!
+- You can check out [the Material-UI GitHub repository](https://github.com/mui/material-ui) - your feedback and contributions are welcome!
 
 
 ## ⚖️ License 
