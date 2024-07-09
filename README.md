@@ -38,4 +38,4 @@ components and features.
 
 
 ## ⚖️ License 
-> License - [Click Me]()
+> License - [Click Me](https://github.com/Jay-Govind/Material-UI/blob/423112c4c5140bbba0b2ef30a390a4b478fa10d5/LICENSE)
